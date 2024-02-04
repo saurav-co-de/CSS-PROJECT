@@ -1,0 +1,11 @@
+.head{
+    border: 2px solid red;
+    text-align: center;
+}
+.container{
+    border: 2px solid red;
+    text-align: center;
+    
+    padding: 1rem;
+}
+
